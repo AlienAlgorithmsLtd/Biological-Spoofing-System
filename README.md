@@ -56,6 +56,8 @@ Each modality supports context-specific release patterns and can be tuned for du
 
 🧩 Integration with Dormant Nanoparticles
 
+https://github.com/AlienAlgorithmsLtd/Dormant-Nanoparticles-for-HSV-1-and-Broader-Medical-Applications
+
 BSS forms the outer defensive layer, designed to stop viruses at the earliest point of contact by deceiving their entry logic.
 Dormant Nanoparticles form the inner defensive layer, activating only when foreign genetic material or reactivation cues are detected intracellularly.
 
