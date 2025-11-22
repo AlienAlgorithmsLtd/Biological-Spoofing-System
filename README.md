@@ -96,9 +96,4 @@ supporting open scientific collaboration, derivative innovation, and shared deve
 
 © 2025 Alien Algorithms Ltd®
 
-🔗 Related Project
-
-Dormant Nanoparticles for HSV-1 and Broader Medical Applications:
-https://github.com/AlienAlgorithmsLtd/Dormant-Nanoparticles-for-HSV-1-and-Broader-Medical-Applications
-
 Legacy version WILL BE DELETED 1/1/2026
