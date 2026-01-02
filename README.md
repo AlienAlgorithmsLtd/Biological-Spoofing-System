@@ -96,4 +96,4 @@ supporting open scientific collaboration, derivative innovation, and shared deve
 
 © 2025 Alien Algorithms Ltd®
 
-Legacy versions WILL BE DELETED
+Legacy versions WILL BE ARCHIVED
